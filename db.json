@@ -3,18 +3,42 @@
     {
       "nombre": "Ruben",
       "empresa": "RAIV",
-      "email": "correo@correo.com",
-      "telefono": "61418979879",
-      "notas": "El cliente solicita un producto",
+      "email": "correo1@correo.com",
+      "telefono": "9812938",
+      "notas": "Se agrega nuevo cliente",
       "id": 1
     },
     {
       "nombre": "Ruben",
       "empresa": "RAIV",
-      "email": "correo@correo.com",
-      "telefono": "61418979879",
-      "notas": "El cliente solicita un producto",
+      "email": "correo1@correo.com",
+      "telefono": "9812938",
+      "notas": "Se agrega nuevo cliente",
       "id": 2
+    },
+    {
+      "nombre": "Ruben",
+      "empresa": "RAIV",
+      "email": "correo1@correo.com",
+      "telefono": "13412",
+      "notas": "Correo",
+      "id": 3
+    },
+    {
+      "nombre": "Ruben",
+      "empresa": "RAIV Technologies",
+      "email": "correo1@correo.com",
+      "telefono": "1231231",
+      "notas": "Golasdf",
+      "id": 4
+    },
+    {
+      "nombre": "Prueba",
+      "empresa": "prueba",
+      "email": "correo1@correo.com",
+      "telefono": "1230980",
+      "notas": "",
+      "id": 5
     }
   ]
 }
