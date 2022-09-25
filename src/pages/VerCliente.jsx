@@ -31,8 +31,6 @@ const VerCliente = () => {
 
     }, [])
 
-    console.log(cargando)
-
     const { nombre, empresa, email, telefono, notas } = cliente
 
   return (
